@@ -1,0 +1,222 @@
+[
+    {
+        "name": "DOEL Freedom A9 AMD A9-9425 14.1\" HD Laptop",
+        "price": 27899,
+        "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/doel/freedom-a9/a9-01-228x228.webp",
+        "descs": [
+            "Processor: AMD A9-9425 (1MB Cache, 3.10GHz up to 3.70GHz)",
+            "RAM: 4GB, Storage: 240GB SSD",
+            "Display: 14.1\" HD (1366x768)",
+            "Features: HD Webcam, TF Card slot, Type-C"
+        ]
+    },
+    {
+        "name": "Toshiba Dynabook Satellite Pro C40-G-109 Celeron 5205U 14\" HD Laptop",
+        "price": 30500,
+        "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/toshiba/satellite-pro-c40-g-109/satellite-pro-c40-g-109-01-228x228.webp",
+        "descs": [
+            "Processor: Intel Celeron 5205U (2M Cache, 1.90 GHz)",
+            "RAM: 4GB 3200MHz. Storage: 128GB SSD",
+            "Display: 14\" HD (1,366 x 768)",
+            "Features: Frameless black tile keyboard"
+        ]
+    },
+    {
+        "name": "Acer TravelMate TMB 311-31-C3CD Celeron N4020 11.6\" HD Laptop",
+        "price": 32495,
+        "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/travelmate-tmb-311-31-c3cd/travelmate-tmb-311-31-c3cd-01-228x228.jpg",
+        "descs": [
+            "Processor: Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",
+            "RAM: 4GB DDR4 RAM, Storage: 256GB SSD",
+            "Display: 11.6\" HD (1366 x 768)",
+            "Features: Multi-gesture touchpad"
+        ]
+    },
+    {
+        "name": "Lenovo IdeaPad D330 10IGL Intel CDC N4020 10.1\" HD Touch Laptop",
+        "price": 36000,
+        "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/d330/d330-1-228x228.jpg",
+        "descs": [
+            "Processor: Intel Celeron N4020 (4M Cache,1.10 GHz up to 2.80 GHz)",
+            "RAM: 4GB DDR4",
+            "Storage: 128GB eMMC",
+            "Display: 10.1\" (1280 x 800) HD Touchscreen"
+        ]
+    },
+    {
+        "name": "Lenovo IdeaPad Slim 3i Celeron N4020 256GB SSD 15.6\" HD Laptop with 3 Years Warranty",
+        "price": 36500,
+        "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/slim-3i/slim-3i-001-228x228.jpg",
+        "descs": [
+            "Processor: Intel Celeron N4020 (4M Cache,1.10 GHz up to 2.80 GHz)",
+            "RAM: 4GB DDR4, Storage: 256GB SSD",
+            "Display: 15.6\" FHD (1920x1080 )",
+            "Features: 3 Years Warranty"
+        ]
+    },
+    {
+        "name": "Lenovo IdeaPad Slim 3i Celeron N4020 14\" FHD Laptop",
+        "price": 36500,
+        "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/lenovo/ideapad-slim-3i/ideapad-slim-3i-01-228x228.webp",
+        "descs": [
+            "Processor: Intel Celeron N4020 (4M Cache,1.10 GHz up to 2.80 GHz)",
+            "RAM: 4GB DDR4, Storage: 256GB SSD",
+            "Display: 15.6\" FHD (1920x1080 )",
+            "Features: 3 Years Warranty"
+        ]
+    },
+    {
+        "name": "Asus Vivobook X515MA Celeron N4020 15.6\" HD Laptop",
+        "price": 41000,
+        "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-15-x515ea/vivobook-15-x515ea-01-228x228.jpg",
+        "descs": [
+            "Processor: Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",
+            "Memory: 4GB DDR4 RAM",
+            "Storage: 1TB 5400RPM HDD",
+            "Display: 15.6\" HD (1366 x 768)"
+        ]
+    },
+    {
+        "name": "Asus P1511CMA Intel Celeron N4020 15.6-Inch HD Laptop",
+        "price": 41500,
+        "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/p1511cma/p1511cma-slate-grey-01-228x228.webp",
+        "descs": [
+            "Processor: Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",
+            "Ram: 4GB DDR4, Storage: 1TB HDD",
+            "Display: 15.6\" HD (1366 x 768)",
+            "Features: Chiclet Keyboard, Cortana support, Type-C"
+        ]
+    },
+    {
+        "name": "Asus Vivobook X515KA Celeron N4500 15.6\" HD Laptop",
+        "price": 42500,
+        "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-15-x515ea/vivobook-15-x515ea-01-228x228.jpg",
+        "descs": [
+            "Processor: Intel Celeron N4500 (4M Cache, 1.10 GHz up to 2.80 GHz)",
+            "RAM: 4GB DDR4 RAM, Storage: 1TB 5400RPM HDD",
+            "Display: 15.6\" HD (1366 x 768)",
+            "Features: Chiclet Keyboard, Built-in microphone"
+        ]
+    },
+    {
+        "name": "Asus Vivobook X515KA Celeron N4500 15.6\" FHD Laptop",
+        "price": 42500,
+        "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-x515ka/vivobook-x515ka-slate-grey-01-228x228.webp",
+        "descs": [
+            "Processor: Intel Celeron N4500 (4M Cache, 1.10 GHz up to 2.80 GHz)",
+            "RAM: 4GB DDR4 RAM, Storage: 1TB 5400RPM HDD",
+            "Display: 15.6\" FHD (1920x1080)",
+            "Features:  Built-in microphone, Type-C"
+        ]
+    },
+    {
+        "name": "Asus Vivobook X515MA Celeron N4020 15.6\" FHD Laptop",
+        "price": 43500,
+        "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-x515ma/vivobook-x515ma-01-228x228.jpg",
+        "descs": [
+            "Intel Celeron Processor N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",
+            "4GB DDR4 RAM",
+            "1TB HDD",
+            "15.6 FHD (1920x1080) Display"
+        ]
+    },
+    {
+        "name": "Asus Vivobook X515MA Celeron N4500 15.6\" HD Laptop",
+        "price": 43500,
+        "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-15-x515ea/vivobook-15-x515ea-01-228x228.jpg",
+        "descs": [
+            "Processor: Intel Celeron N4500 (4M Cache, 1.10 GHz up to 2.80 GHz)",
+            "RAM: 4GB DDR4, Storage: 1TB 5400RPM HDD",
+            "Display: 15.6\" HD (1366 x 768)",
+            "Features: SonicMaster, Type-C"
+        ]
+    },
+    {
+        "name": "Toshiba Dynabook Satellite Pro C40-G-11I Core i3 10th Gen 14\" HD Laptop",
+        "price": 45900,
+        "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/toshiba/satellite-pro-c40-g-109/satellite-pro-c40-g-109-01-228x228.webp",
+        "descs": [
+            "Processor: Intel Core i3 10110U (4MB Cache, 2.10Ghz up to 4.10Ghz)",
+            "RAM: 8GB 3200MHz. Storage: 256GB SSD",
+            "Display: 14\" HD (1,366 x 768)",
+            "Features: Frameless black tile keyboard"
+        ]
+    },
+    {
+        "name": "Asus VivoBook 15 X515FA Core i3 10th Gen 15.6\" FHD Laptop",
+        "price": 46500,
+        "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-15-x515ea/vivobook-15-x515ea-05-228x228.jpg",
+        "descs": [
+            "Processor: Intel Core i3-10110U (4M Cache, 2.10 GHz up to 4.10 GHz)",
+            "Memory: 4GB DDR4 3200MHz RAM",
+            "Storage: 1TB 5400 RPM SATA HDD",
+            "Display: 15.6\" FHD (1920 x 1080) LED"
+        ]
+    },
+    {
+        "name": "Asus Vivobook E410MA Celeron N4020 14\" HD Laptop",
+        "price": 46500,
+        "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/e410ma/e410ma-01-228x228.jpg",
+        "descs": [
+            "Processor: Intel Celeron N4020 (4M Cache, 1.10 GHz up to 2.80 GHz)",
+            "RAM: 4GB DDR4 (Onboard), Storage: 256GB PCIEG3 SSD",
+            "Display: 14\" HD (1366X768) LED Display",
+            "Features: Illuminated Keyboard, Type-C"
+        ]
+    },
+    {
+        "name": "Asus VivoBook 14 X415FA Core i3 10th Gen 256GB SSD 14\" FHD Laptop",
+        "price": 46500,
+        "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-14/vivobook-14-4-228x228.jpg",
+        "descs": [
+            "Processor: Intel Core i3 10110U (4MB Cache, 2.1Ghz up to 4.1Ghz)",
+            "RAM: 4GB DDR4 RAM, Storage: 256GB SSD",
+            "Display: 14\" FHD (1920x1080)",
+            "Features: Chiclet Keyboard, Type-C"
+        ]
+    },
+    {
+        "name": "ASUS VivoBook 15 X515JA Core i3 10th Gen 15.6\" FHD Laptop",
+        "price": 47000,
+        "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-15-x515ja/15-x515ja-slate-grey-228x228.jpg",
+        "descs": [
+            "Processor: Intel Core i3-1005G1 (4M Cache,1.20 GHz up to 3.40 GHz)",
+            "RAM: 4GB DDR4, Storage: 1TB HDD",
+            "Display: 15.6\" FHD LED",
+            "Features: SonicMaster, Type-C"
+        ]
+    },
+    {
+        "name": "Asus VivoBook 15 E510MA Intel Celeron N4020 15.6\" FHD Laptop",
+        "price": 47000,
+        "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-15-e510ma/vivobook-15-e510ma-0101-228x228.jpg",
+        "descs": [
+            "Intel Celeron Dual Core N4020 (1.10 GHz up to 2.80 GHz, Cache 4MB)",
+            "4GB DDR4 RAM",
+            "512GB PCIe G3 SSD",
+            "15.6\" FHD (1920X1080) LED Display"
+        ]
+    },
+    {
+        "name": "Asus VivoBook 14 X415FA Core i3 10th Gen 14\" FHD Laptop",
+        "price": 47000,
+        "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-14/vivobook-14-4-228x228.jpg",
+        "descs": [
+            "Processor: Intel Core i3 10110U (4MB Cache, 2.1Ghz up to 4.1Ghz)",
+            "Memory: 4GB DDR4 RAM",
+            "Storage: 1TB SATA HDD",
+            "Display: 14.0\" FHD (1920X1080)"
+        ]
+    },
+    {
+        "name": "Asus VivoBook 15 E510MA Celeron N4020 15.6\" FHD Laptop with Fingerprint",
+        "price": 47000,
+        "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-15-e510ma/vivobook-15-e510ma-0101-228x228.jpg",
+        "descs": [
+            "Processor: Intel Celeron Dual Core N4020 (1.10 GHz up to 2.80 GHz, Cache 4MB)",
+            "RAM: 4GB DDR4 (Onboard), Storage: 512GB SSD",
+            "Display: 15.6\" FHD (1920X1080) LED",
+            "Features: Fingerprint, USB Type-C"
+        ]
+    }
+]
